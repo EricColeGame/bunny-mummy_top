@@ -45,22 +45,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "New to Bunny Mummy? Start with the basics: what this spooky-cute rabbit-and-bandage look is, where it appears, and how to grab it before the shop rotates."
+          "description": "New to Bunny Mummy? Start with the basics: what the spooky-cute wrapped rabbit is, where it appears, and the first steps to begin collecting with confidence."
         },
         {
           "number": "2",
           "title": "How to Get It",
-          "description": "Follow the legitimate routes step by step - seasonal event rewards, rotating item shops, and quest chains - and skip the fake code scams."
+          "description": "Walk every legitimate unlock route step by step - seasonal event rewards, rotating shops, and quest chains - and skip the fake code scams."
         },
         {
           "number": "3",
-          "title": "Bundles & Packs",
-          "description": "See what a Bunny Mummy bundle usually includes, from the outfit and back bling to the harvesting tool, and pick the set that fits your V-Bucks budget."
+          "title": "All Codes",
+          "description": "See how Bunny Mummy promo codes work, how to redeem them safely, and why most secret code lists are expired or fake."
         },
         {
           "number": "4",
           "title": "Skin Combos",
-          "description": "Build a standout loadout with matching wraps, emotes, and styles so your Bunny Mummy look reads clearly in duos, squads, and creative clips."
+          "description": "Build a standout loadout with matching wraps, emotes, and styles so your Bunny Mummy look reads clearly in every lobby and clip."
         }
       ]
     },
@@ -127,8 +127,8 @@
     "aboutGame": {
       "title": "What is Bunny Mummy?",
       "paragraphs": [
-        "Bunny Mummy is the spooky-cute mashup of a soft rabbit and an ancient bandaged mummy. In Fortnite it shows up as a limited-time cosmetic set - a wrapped-rabbit outfit with matching back bling and harvesting tool - while collectors also chase it as plush figures, display pieces, and community-made skins.",
-        "Because Bunny Mummy is a rotating cosmetic rather than a permanent store fixture, availability changes constantly. This wiki tracks where the look appears, how to unlock or earn it, what each bundle contains, and how to style it, so you never miss a shop reset or fall for a fake code."
+        "Bunny Mummy is the spooky-cute mashup of a soft rabbit and an ancient bandaged mummy. It shows up as a limited-time collectible - a wrapped-rabbit cosmetic, an in-game pet, a plush, or a display figure - which is why players start searching the moment a seasonal event opens.",
+        "Because Bunny Mummy is tied to limited windows and rotating shops instead of a permanent shelf spot, availability and value shift fast. This wiki tracks where the look appears, how to unlock or earn it, what each bundle contains, and how to style it, so you never miss a reset or fall for a fake code."
       ],
       "stats": [
         {
@@ -137,23 +137,23 @@
         },
         {
           "label": "Look",
-          "value": "Rabbit + Mummy"
+          "value": "Rabbit + Bandages"
         },
         {
           "label": "Availability",
-          "value": "Rotating Shop"
+          "value": "Limited-Time"
         },
         {
-          "label": "Game",
-          "value": "Fortnite"
+          "label": "Main Sources",
+          "value": "Events & Shops"
         },
         {
-          "label": "Set Pieces",
-          "value": "Outfit + Back Bling"
+          "label": "Formats",
+          "value": "Skin, Pet, Plush"
         },
         {
-          "label": "Best Season",
-          "value": "Fortnitemares"
+          "label": "Real Meaning",
+          "value": "Mother Rabbit"
         }
       ],
       "cta": "Explore All Guides"
@@ -171,30 +171,30 @@
           "highlights": [
             {
               "label": "1",
-              "detail": "Confirm which Bunny Mummy you are chasing - a Fortnite cosmetic, a plush, or a community skin - before spending time or V-Bucks."
+              "detail": "Identify the exact Bunny Mummy you are chasing - a cosmetic, a pet, or a plush - before you spend time or currency."
             },
             {
               "label": "2",
-              "detail": "Check the official event calendar and note the exact start and end dates so a rotating window never closes on you."
+              "detail": "Check the official event calendar and note the exact start and end dates so a limited window never closes on you."
             },
             {
               "label": "3",
-              "detail": "Bank your event currency and V-Bucks early instead of grinding during the final two days of the event."
+              "detail": "Bank your event currency early instead of grinding during the final two days of the event."
             },
             {
               "label": "4",
-              "detail": "Complete the quest chain in order, since side objectives often gate the final Bunny Mummy reward."
+              "detail": "Complete the quest chain in order, because side objectives often gate the final Bunny Mummy reward."
             },
             {
               "label": "5",
-              "detail": "Verify any code or trade through official sources before you commit - most secret code lists are fake or expired."
+              "detail": "Verify every code or trade through official sources before you commit - most secret code lists are fake."
             }
           ]
         },
         {
           "order": 2,
           "name": "Bunny Mummy Characters",
-          "description": "Meet the Bunny Mummy characters and set pieces: the wrapped-rabbit outfit, its styles, the back bling, and the community creations inspired by the look.",
+          "description": "Meet the Bunny Mummy characters and set pieces: the wrapped-rabbit outfit, its styles, the matching accessories, and the community creations inspired by the look.",
           "href": "/items/bunny-mummy-skin",
           "displayType": "card-list",
           "highlights": [
@@ -211,12 +211,12 @@
               "detail": "Alternate color and wrap variants that shift the look between cute, creepy, and seasonal."
             },
             {
-              "label": "Pickaxe",
-              "detail": "The themed harvesting tool that usually ships alongside the outfit in a full Bunny Mummy bundle."
+              "label": "Pet",
+              "detail": "A bandaged bunny companion offered as an event reward or a randomized hatch-pool drop."
             },
             {
               "label": "Fan Skins",
-              "detail": "Player-made Bunny Mummy creations in sandbox builders, from pixel skins to avatar accessories."
+              "detail": "Player-made Bunny Mummy creations, from pixel skins to avatar accessories and display pieces."
             }
           ]
         },
@@ -225,27 +225,27 @@
           "name": "Bunny Mummy Items Guide",
           "description": "Important Bunny Mummy items, bundles, and collectibles - what each one contains, how to get it, and whether it is worth the price.",
           "href": "/items/bunny-mummy-item-shop",
-          "displayType": "card-list",
+          "displayType": "code-cards",
           "highlights": [
             {
               "label": "Bundle",
-              "detail": "The full Bunny Mummy set with outfit, back bling, and harvesting tool in a single purchase."
+              "detail": "The packaged set that groups the main skin or pet with matching accessories and small extras."
             },
             {
-              "label": "Shop Skin",
-              "detail": "The standalone outfit when it rotates into the Fortnite Item Shop on the official schedule."
+              "label": "Skin",
+              "detail": "The standalone wrapped-rabbit cosmetic when it rotates into the shop on its own."
+            },
+            {
+              "label": "Pet",
+              "detail": "A bandaged bunny companion offered as an event reward or hatch-pool drop."
             },
             {
               "label": "Plush",
               "detail": "Physical Bunny Mummy plush and display figures sold through seasonal retail drops."
             },
             {
-              "label": "V-Bucks",
-              "detail": "How much V-Bucks the set costs and the smartest ways to save before it returns."
-            },
-            {
-              "label": "Quest Pack",
-              "detail": "Bundled quest content that pairs Bunny Mummy rewards with earnable V-Bucks."
+              "label": "Currency",
+              "detail": "The event tokens or premium coins to bank before the bundle rotates out."
             }
           ]
         },
@@ -257,24 +257,24 @@
           "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Jump Tap",
-              "detail": "A forgiving hop that clears small gaps; tapping too early clips the ledge."
+              "label": "Hop",
+              "detail": "A jump button tap with a forgiving window - tap too early and you clip the ledge."
             },
             {
-              "label": "Hold Jump",
-              "detail": "A charged leap for longer gaps that risks losing distance if released mid-arc."
+              "label": "Charged Leap",
+              "detail": "Hold jump for a longer, riskier arc; releasing mid-arc costs you distance."
             },
             {
-              "label": "Dash",
-              "detail": "Direction plus dash to cross hazards quickly - just do not dash straight into a wall."
+              "label": "Wrap-Dash",
+              "detail": "Direction plus dash to cross hazards fast - just do not dash into a wall."
             },
             {
-              "label": "Crouch",
-              "detail": "A slide or tuck while moving; commit only when you can cancel before a hazard."
+              "label": "Slide / Tuck",
+              "detail": "Crouch while moving; commit only when you can cancel before a hazard."
             },
             {
-              "label": "Interact",
-              "detail": "An unwrap-pull near an anchor point with a very tight timing window - time it, do not mash."
+              "label": "Unwrap-Pull",
+              "detail": "Interact near an anchor point with a very tight window - time it, do not mash."
             }
           ]
         },
@@ -291,7 +291,7 @@
             },
             {
               "label": "Shop Reset",
-              "detail": "The Item Shop refreshes at 00:00 UTC - the exact moment a returning Bunny Mummy can appear."
+              "detail": "The shop refreshes on a fixed schedule - the exact moment a returning Bunny Mummy can appear."
             },
             {
               "label": "Combos",
@@ -299,11 +299,11 @@
             },
             {
               "label": "Telegraphs",
-              "detail": "Every enemy threat in Bunny Mummy announces itself first - learn the tell and you avoid the hit."
+              "detail": "Every enemy threat announces itself first - learn the tell and you avoid the hit."
             },
             {
               "label": "No-Spend",
-              "detail": "Run a level using zero bandages to learn attack patterns faster than mashing ever will."
+              "detail": "Clear a level using zero bandages to learn attack patterns faster than mashing ever will."
             }
           ]
         },
@@ -311,12 +311,12 @@
           "order": 6,
           "name": "Bunny Mummy Updates",
           "description": "Bunny Mummy update tracking - new bundles, shop returns, balance changes, and event announcements for returning players.",
-          "href": "/guide/bunny-mummy-quest-pack-guide",
+          "href": "/guide/bunny-mummy-fortnite",
           "displayType": "card-list",
           "highlights": [
             {
               "label": "Returns",
-              "detail": "When Bunny Mummy rotates back into the Item Shop and how long it usually stays."
+              "detail": "When Bunny Mummy rotates back into the shop and how long each window stays open."
             },
             {
               "label": "New Sets",
@@ -324,11 +324,11 @@
             },
             {
               "label": "Events",
-              "detail": "Fortnitemares and other limited-time events where the Bunny Mummy look tends to surface."
+              "detail": "Fortnitemares and other limited-time events where the Bunny Mummy look appears."
             },
             {
               "label": "Prices",
-              "detail": "V-Bucks price changes and bundle value shifts across each shop rotation."
+              "detail": "Currency price changes and bundle value shifts across each shop rotation."
             },
             {
               "label": "Patches",
@@ -339,25 +339,25 @@
         {
           "order": 7,
           "name": "Bunny Mummy Tier List",
-          "description": "Bunny Mummy sets, styles, and bundle values ranked from must-buy to skip so you spend V-Bucks where it counts.",
+          "description": "Bunny Mummy sets, styles, and bundle values ranked from must-buy to skip so you spend your currency where it counts.",
           "href": "/reviews/bunny-mummy-skin-review",
           "displayType": "tier-grid",
           "highlights": [
             {
               "label": "S",
-              "detail": "Full Bunny Mummy bundle - outfit, back bling, and harvesting tool in one high-value purchase."
+              "detail": "Full Bunny Mummy bundle - main skin, matching accessories, and extras in one high-value purchase."
             },
             {
               "label": "A",
-              "detail": "Standalone outfit when it returns to the shop - a great look, but you supply the extras."
+              "detail": "Standalone skin when it returns to the shop - a great look, but you supply the extras."
             },
             {
               "label": "B",
-              "detail": "Plush and display collectibles - worth it for fans, less so for in-game value."
+              "detail": "Plush and display collectibles - worth it for fans, less so for pure in-game value."
             },
             {
               "label": "C",
-              "detail": "Fake code listings and overpriced resales - skip them and wait for an official rotation."
+              "detail": "Randomized hatch-pool or loot-table attempts - fun, but the worst cost-per-unlock odds."
             }
           ]
         },
@@ -394,27 +394,27 @@
     },
     "faq": {
       "title": "Bunny Mummy FAQ",
-      "description": "Quick answers to the most common Bunny Mummy questions about unlocking, bundles, prices, and shop returns.",
+      "description": "Quick answers to the most common Bunny Mummy questions about unlocking, bundles, prices, and event returns.",
       "items": [
         {
           "question": "What is Bunny Mummy?",
-          "answer": "Bunny Mummy is a spooky-cute character concept that fuses a soft rabbit with an ancient bandaged mummy. It appears as a limited-time Fortnite cosmetic set, and also as plush collectibles and community-made skins in other games."
+          "answer": "Bunny Mummy is a spooky-cute character that fuses a soft rabbit with an ancient bandaged mummy. It appears as a limited-time collectible - a wrapped-rabbit cosmetic, an in-game pet, a plush, or a display figure - and the name is also used for a mother rabbit and her litter of kits."
         },
         {
-          "question": "How do I get Bunny Mummy in Fortnite?",
-          "answer": "Watch the Item Shop, which refreshes at 00:00 UTC, and buy the set during a rotation. Seasonal events such as Fortnitemares and their quest chains are the other reliable route - Bunny Mummy is not a permanent store item."
-        },
-        {
-          "question": "How much does the Bunny Mummy bundle cost?",
-          "answer": "Pricing varies by bundle, but a full set usually groups the outfit, back bling, and harvesting tool together for better value than buying each piece separately. Check the current shop listing before you spend V-Bucks."
+          "question": "How do I get Bunny Mummy?",
+          "answer": "Work the legitimate routes: claim the seasonal event reward, buy it from a rotating shop with banked currency, finish the event quest chain, or trade for it after the window closes. Confirm which version of Bunny Mummy you are chasing first, then follow the route that matches."
         },
         {
           "question": "Are Bunny Mummy codes real?",
           "answer": "Most secret Bunny Mummy code lists are fake or expired. Treat any code that asks for your login, payment, or a survey as a scam, and confirm rewards only through official channels."
         },
         {
-          "question": "When will Bunny Mummy return to the shop?",
-          "answer": "Epic rotates cosmetics on its own schedule and does not announce every return in advance. Check the daily reset at 00:00 UTC and track community shop-sighting threads to catch the next Bunny Mummy rotation."
+          "question": "How much does the Bunny Mummy bundle cost?",
+          "answer": "A full Bunny Mummy bundle groups the main skin or pet with matching accessories and small extras for better value than buying each piece separately. Prices are lowest while the event is live and peak in the weeks right after it ends."
+        },
+        {
+          "question": "When will Bunny Mummy return?",
+          "answer": "Limited-time collectibles rotate on the developer's own schedule and are rarely announced far ahead. Check the shop every reset, follow official channels, and track community shop-sighting threads to catch the next Bunny Mummy window."
         }
       ]
     },
