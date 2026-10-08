@@ -39,288 +39,376 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "New to Bunny Mummy? Start with the basics: what this spooky-cute rabbit-and-bandage look is, where it appears, and how to grab it before the shop rotates."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "How to Get It",
+          "description": "Follow the legitimate routes step by step - seasonal event rewards, rotating item shops, and quest chains - and skip the fake code scams."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Bundles & Packs",
+          "description": "See what a Bunny Mummy bundle usually includes, from the outfit and back bling to the harvesting tool, and pick the set that fits your V-Bucks budget."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Bunny Mummy."
+          "title": "Skin Combos",
+          "description": "Build a standout loadout with matching wraps, emotes, and styles so your Bunny Mummy look reads clearly in duos, squads, and creative clips."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending Bunny Mummy Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "How to Get",
+        "Bundle Guide",
+        "Skin Combos",
+        "Is It Worth It"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "Bunny Mummy Beginner Guide",
+          "description": "What Bunny Mummy is, where it appears, and the first steps to unlock it.",
+          "href": "/guide/bunny-mummy-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "How to Get Bunny Mummy",
+          "description": "Every legitimate route to the spooky-cute collectible, from event rewards to safe trades.",
+          "href": "/guide/bunny-mummy-how-to-get"
+        },
+        {
+          "badge": "Popular",
+          "title": "Bunny Mummy Bundle Guide",
+          "description": "What is inside the bundle and whether the full set is worth your V-Bucks.",
+          "href": "/items/bunny-mummy-bundle"
+        },
+        {
+          "badge": "New",
+          "title": "Bunny Mummy Skin Combos",
+          "description": "Matching wraps, emotes, and styles that make the bandaged-rabbit look stand out.",
+          "href": "/mechanics/bunny-mummy-skin-combos"
+        },
+        {
+          "badge": "Popular",
+          "title": "Bunny Mummy Quests",
+          "description": "Complete quest walkthroughs, rewards, and pro tips for every objective.",
+          "href": "/quests/bunny-mummy-quests"
+        },
+        {
+          "badge": "New",
+          "title": "Is Bunny Mummy Worth Buying?",
+          "description": "An honest collector's review of value, timing, and resale risk.",
+          "href": "/reviews/bunny-mummy-worth-buying"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Bunny Mummy Fortnite Guide",
+          "description": "How the skin returns to the Item Shop, what bundles include, and V-Bucks tips.",
+          "href": "/guide/bunny-mummy-fortnite"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Bunny Mummy Season",
+          "description": "Kindling, nesting, and kit-care timelines for the seasonal bunny mummy window.",
+          "href": "/community/bunny-mummy-season"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Bunny Mummy?",
       "paragraphs": [
-        "Bunny Mummy is a stylized fighting RPG on Fortnite inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Bunny Mummy is the spooky-cute mashup of a soft rabbit and an ancient bandaged mummy. In Fortnite it shows up as a limited-time cosmetic set - a wrapped-rabbit outfit with matching back bling and harvesting tool - while collectors also chase it as plush figures, display pieces, and community-made skins.",
+        "Because Bunny Mummy is a rotating cosmetic rather than a permanent store fixture, availability changes constantly. This wiki tracks where the look appears, how to unlock or earn it, what each bundle contains, and how to style it, so you never miss a shop reset or fall for a fake code."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Epic Games"
+          "label": "Theme",
+          "value": "Spooky-Cute"
         },
         {
-          "label": "Platform",
+          "label": "Look",
+          "value": "Rabbit + Mummy"
+        },
+        {
+          "label": "Availability",
+          "value": "Rotating Shop"
+        },
+        {
+          "label": "Game",
           "value": "Fortnite"
         },
         {
-          "label": "Genre",
-          "value": "Fighting RPG"
+          "label": "Set Pieces",
+          "value": "Outfit + Back Bling"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
-        },
-        {
-          "label": "Favorites",
-          "value": "243K+"
-        },
-        {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Best Season",
+          "value": "Fortnitemares"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Bunny Mummy Wiki",
-      "description": "Master your seafood restaurant on Fortnite with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Eight focused hubs cover everything about Bunny Mummy - how to unlock it, the characters and set pieces it belongs to, item and bundle values, gameplay mechanics, hidden details, updates, tier rankings, and community resources.",
       "modules": [
         {
           "order": 1,
-          "name": "Bunny Mummy Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/bunny-mummy-codes",
-          "displayType": "code-box",
+          "name": "Bunny Mummy Beginner Guide",
+          "description": "New player guidance: what Bunny Mummy is, the first steps to unlock it, early tips, and the decisions that matter most in your first session.",
+          "href": "/guide/bunny-mummy-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Confirm which Bunny Mummy you are chasing - a Fortnite cosmetic, a plush, or a community skin - before spending time or V-Bucks."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Check the official event calendar and note the exact start and end dates so a rotating window never closes on you."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Bank your event currency and V-Bucks early instead of grinding during the final two days of the event."
+            },
+            {
+              "label": "4",
+              "detail": "Complete the quest chain in order, since side objectives often gate the final Bunny Mummy reward."
+            },
+            {
+              "label": "5",
+              "detail": "Verify any code or trade through official sources before you commit - most secret code lists are fake or expired."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/bunny-mummy-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Bunny Mummy Characters",
+          "description": "Meet the Bunny Mummy characters and set pieces: the wrapped-rabbit outfit, its styles, the back bling, and the community creations inspired by the look.",
+          "href": "/items/bunny-mummy-skin",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Outfit",
+              "detail": "The core Bunny Mummy look: soft rabbit ears wrapped in tattered bandages for a spooky-cute silhouette."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Back Bling",
+              "detail": "A matching accessory that completes the set and keeps the bandaged-rabbit theme readable at range."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Styles",
+              "detail": "Alternate color and wrap variants that shift the look between cute, creepy, and seasonal."
+            },
+            {
+              "label": "Pickaxe",
+              "detail": "The themed harvesting tool that usually ships alongside the outfit in a full Bunny Mummy bundle."
+            },
+            {
+              "label": "Fan Skins",
+              "detail": "Player-made Bunny Mummy creations in sandbox builders, from pixel skins to avatar accessories."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/bunny-mummy-tier-list",
-          "displayType": "tier-grid",
+          "name": "Bunny Mummy Items Guide",
+          "description": "Important Bunny Mummy items, bundles, and collectibles - what each one contains, how to get it, and whether it is worth the price.",
+          "href": "/items/bunny-mummy-item-shop",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Bundle",
+              "detail": "The full Bunny Mummy set with outfit, back bling, and harvesting tool in a single purchase."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Shop Skin",
+              "detail": "The standalone outfit when it rotates into the Fortnite Item Shop on the official schedule."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Plush",
+              "detail": "Physical Bunny Mummy plush and display figures sold through seasonal retail drops."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "V-Bucks",
+              "detail": "How much V-Bucks the set costs and the smartest ways to save before it returns."
+            },
+            {
+              "label": "Quest Pack",
+              "detail": "Bundled quest content that pairs Bunny Mummy rewards with earnable V-Bucks."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/bunny-mummy-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Bunny Mummy Gameplay Mechanics",
+          "description": "The core Bunny Mummy gameplay loop and controls - how movement, the bandage meter, and enemy timing fit together in a clean run.",
+          "href": "/mechanics/bunny-mummy-gameplay",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Jump Tap",
+              "detail": "A forgiving hop that clears small gaps; tapping too early clips the ledge."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Hold Jump",
+              "detail": "A charged leap for longer gaps that risks losing distance if released mid-arc."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Dash",
+              "detail": "Direction plus dash to cross hazards quickly - just do not dash straight into a wall."
+            },
+            {
+              "label": "Crouch",
+              "detail": "A slide or tuck while moving; commit only when you can cancel before a hazard."
+            },
+            {
+              "label": "Interact",
+              "detail": "An unwrap-pull near an anchor point with a very tight timing window - time it, do not mash."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/bunny-mummy-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Bunny Mummy Secrets",
+          "description": "Hidden Bunny Mummy details, rare variants, and community discoveries that most players never notice.",
+          "href": "/mechanics/bunny-mummy-skin-combos",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Style Swap",
+              "detail": "Hidden style and wrap variants that only appear on certain Bunny Mummy set pieces."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Shop Reset",
+              "detail": "The Item Shop refreshes at 00:00 UTC - the exact moment a returning Bunny Mummy can appear."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Combos",
+              "detail": "Unexpected wrap and emote pairings that make the bandaged-rabbit look pop in replays."
+            },
+            {
+              "label": "Telegraphs",
+              "detail": "Every enemy threat in Bunny Mummy announces itself first - learn the tell and you avoid the hit."
+            },
+            {
+              "label": "No-Spend",
+              "detail": "Run a level using zero bandages to learn attack patterns faster than mashing ever will."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/bunny-mummy-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Bunny Mummy Updates",
+          "description": "Bunny Mummy update tracking - new bundles, shop returns, balance changes, and event announcements for returning players.",
+          "href": "/guide/bunny-mummy-quest-pack-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Returns",
+              "detail": "When Bunny Mummy rotates back into the Item Shop and how long it usually stays."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "New Sets",
+              "detail": "Fresh bundle variants and matching accessories added with each seasonal event."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Events",
+              "detail": "Fortnitemares and other limited-time events where the Bunny Mummy look tends to surface."
+            },
+            {
+              "label": "Prices",
+              "detail": "V-Bucks price changes and bundle value shifts across each shop rotation."
+            },
+            {
+              "label": "Patches",
+              "detail": "Cosmetic and gameplay adjustments that affect how the set looks or plays."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Bunny Mummy Tier List",
+          "description": "Bunny Mummy sets, styles, and bundle values ranked from must-buy to skip so you spend V-Bucks where it counts.",
+          "href": "/reviews/bunny-mummy-skin-review",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Full Bunny Mummy bundle - outfit, back bling, and harvesting tool in one high-value purchase."
+            },
+            {
+              "label": "A",
+              "detail": "Standalone outfit when it returns to the shop - a great look, but you supply the extras."
+            },
+            {
+              "label": "B",
+              "detail": "Plush and display collectibles - worth it for fans, less so for in-game value."
+            },
+            {
+              "label": "C",
+              "detail": "Fake code listings and overpriced resales - skip them and wait for an official rotation."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Bunny Mummy Community",
+          "description": "Bunny Mummy community channels, discussion threads, and player resources for news, values, and support.",
+          "href": "/community/bunny-mummy-reddit",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Reddit",
+              "detail": "Community threads sharing Bunny Mummy shop sightings, values, and styling ideas."
+            },
+            {
+              "label": "YouTube",
+              "detail": "Creators covering Bunny Mummy showcases, unlock routes, and combo clips."
+            },
+            {
+              "label": "Discord",
+              "detail": "Player servers where Bunny Mummy trades, giveaways, and event news move fastest."
+            },
+            {
+              "label": "Season",
+              "detail": "Seasonal Bunny Mummy discussion around events, nesting timelines, and kit care."
+            },
+            {
+              "label": "Trailer",
+              "detail": "Community guides to Bunny Mummy trailers, reveals, and official announcements."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Bunny Mummy.",
+      "title": "Bunny Mummy FAQ",
+      "description": "Quick answers to the most common Bunny Mummy questions about unlocking, bundles, prices, and shop returns.",
       "items": [
         {
           "question": "What is Bunny Mummy?",
-          "answer": "Bunny Mummy is a free-to-play fighting RPG on Fortnite based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Bunny Mummy is a spooky-cute character concept that fuses a soft rabbit with an ancient bandaged mummy. It appears as a limited-time Fortnite cosmetic set, and also as plush collectibles and community-made skins in other games."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I get Bunny Mummy in Fortnite?",
+          "answer": "Watch the Item Shop, which refreshes at 00:00 UTC, and buy the set during a rotation. Seasonal events such as Fortnitemares and their quest chains are the other reliable route - Bunny Mummy is not a permanent store item."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How much does the Bunny Mummy bundle cost?",
+          "answer": "Pricing varies by bundle, but a full set usually groups the outfit, back bling, and harvesting tool together for better value than buying each piece separately. Check the current shop listing before you spend V-Bucks."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Are Bunny Mummy codes real?",
+          "answer": "Most secret Bunny Mummy code lists are fake or expired. Treat any code that asks for your login, payment, or a survey as a scam, and confirm rewards only through official channels."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "When will Bunny Mummy return to the shop?",
+          "answer": "Epic rotates cosmetics on its own schedule and does not announce every return in advance. Check the daily reset at 00:00 UTC and track community shop-sighting threads to catch the next Bunny Mummy rotation."
         }
       ]
     },
