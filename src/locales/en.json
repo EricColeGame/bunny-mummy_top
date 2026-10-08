@@ -45,22 +45,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "New to Bunny Mummy? Start with the basics: what the spooky-cute wrapped rabbit is, where it appears, and the first steps to begin collecting with confidence."
+          "description": "Brand new to Bunny Mummy? Start here: what the wrapped-rabbit collectible actually is, where it shows up, and the first steps to begin collecting with confidence."
         },
         {
           "number": "2",
-          "title": "How to Get It",
-          "description": "Walk every legitimate unlock route step by step - seasonal event rewards, rotating shops, and quest chains - and skip the fake code scams."
+          "title": "All Codes",
+          "description": "Understand how Bunny Mummy promo codes work, how to redeem them safely, and why so many secret-code lists are already expired or fake."
         },
         {
           "number": "3",
-          "title": "All Codes",
-          "description": "See how Bunny Mummy promo codes work, how to redeem them safely, and why most secret code lists are expired or fake."
+          "title": "How to Unlock",
+          "description": "Walk every legitimate unlock route - seasonal event rewards, rotating shop windows, and quest chains - and know what to bank before each reset."
         },
         {
           "number": "4",
-          "title": "Skin Combos",
-          "description": "Build a standout loadout with matching wraps, emotes, and styles so your Bunny Mummy look reads clearly in every lobby and clip."
+          "title": "Combo Guide",
+          "description": "Build a standout loadout with matching wraps, back bling, and emotes so your Bunny Mummy look reads clearly in every lobby and clip."
         }
       ]
     },
@@ -127,8 +127,8 @@
     "aboutGame": {
       "title": "What is Bunny Mummy?",
       "paragraphs": [
-        "Bunny Mummy is the spooky-cute mashup of a soft rabbit and an ancient bandaged mummy. It shows up as a limited-time collectible - a wrapped-rabbit cosmetic, an in-game pet, a plush, or a display figure - which is why players start searching the moment a seasonal event opens.",
-        "Because Bunny Mummy is tied to limited windows and rotating shops instead of a permanent shelf spot, availability and value shift fast. This wiki tracks where the look appears, how to unlock or earn it, what each bundle contains, and how to style it, so you never miss a reset or fall for a fake code."
+        "Bunny Mummy is the spooky-cute mashup of a soft rabbit and an ancient bandaged mummy. In game it arrives as a limited-time collectible - a wrapped-rabbit skin, a matching pet, or a display figure - while in the wider community the same name describes a mother rabbit and the litter of kits she raises.",
+        "Because Bunny Mummy is tied to limited windows and rotating shops instead of a permanent shelf slot, availability and value shift fast. This wiki tracks where the look appears, how to unlock or earn it, what each bundle contains, and how to style it, so you never miss a reset or fall for a fake code."
       ],
       "stats": [
         {
@@ -171,15 +171,15 @@
           "highlights": [
             {
               "label": "1",
-              "detail": "Identify the exact Bunny Mummy you are chasing - a cosmetic, a pet, or a plush - before you spend time or currency."
+              "detail": "Identify which Bunny Mummy you are chasing first - the wrapped-rabbit skin, the matching pet, or a physical plush - because each one has a different unlock path."
             },
             {
               "label": "2",
-              "detail": "Check the official event calendar and note the exact start and end dates so a limited window never closes on you."
+              "detail": "Check the official event calendar and note the exact start and end dates so you never miss the window."
             },
             {
               "label": "3",
-              "detail": "Bank your event currency early instead of grinding during the final two days of the event."
+              "detail": "Bank event currency early instead of grinding during the final days, when prices and competition both spike."
             },
             {
               "label": "4",
@@ -187,7 +187,7 @@
             },
             {
               "label": "5",
-              "detail": "Verify every code or trade through official sources before you commit - most secret code lists are fake."
+              "detail": "Verify every code or trade through official sources before you commit anything of value."
             }
           ]
         },
@@ -200,23 +200,23 @@
           "highlights": [
             {
               "label": "Outfit",
-              "detail": "The core Bunny Mummy look: soft rabbit ears wrapped in tattered bandages for a spooky-cute silhouette."
+              "detail": "The core Bunny Mummy look: soft rabbit ears wrapped in tattered bandages for a gentle spooky-cute silhouette."
             },
             {
               "label": "Back Bling",
-              "detail": "A matching accessory that completes the set and keeps the bandaged-rabbit theme readable at range."
+              "detail": "A matching accessory that completes the set and keeps the bandaged-rabbit theme consistent from every angle."
             },
             {
               "label": "Styles",
-              "detail": "Alternate color and wrap variants that shift the look between cute, creepy, and seasonal."
+              "detail": "Alternate color and wrap variants that shift the look between cute, creepy, and full mummy."
             },
             {
               "label": "Pet",
-              "detail": "A bandaged bunny companion offered as an event reward or a randomized hatch-pool drop."
+              "detail": "A bandaged bunny companion offered as an event reward or a randomized unlock."
             },
             {
               "label": "Fan Skins",
-              "detail": "Player-made Bunny Mummy creations, from pixel skins to avatar accessories and display pieces."
+              "detail": "Player-made Bunny Mummy creations, from pixel skins to avatar accessories and real-world plush."
             }
           ]
         },
@@ -229,7 +229,7 @@
           "highlights": [
             {
               "label": "Bundle",
-              "detail": "The packaged set that groups the main skin or pet with matching accessories and small extras."
+              "detail": "The packaged set that groups the main Bunny Mummy skin or pet with matching accessories at a lower total price."
             },
             {
               "label": "Skin",
@@ -241,11 +241,11 @@
             },
             {
               "label": "Plush",
-              "detail": "Physical Bunny Mummy plush and display figures sold through seasonal retail drops."
+              "detail": "Physical Bunny Mummy plush and display figures sold through seasonal retail runs."
             },
             {
               "label": "Currency",
-              "detail": "The event tokens or premium coins to bank before the bundle rotates out."
+              "detail": "The event tokens or premium coins to bank before the bundle rotates out of the shop."
             }
           ]
         },
@@ -258,23 +258,23 @@
           "highlights": [
             {
               "label": "Hop",
-              "detail": "A jump button tap with a forgiving window - tap too early and you clip the ledge."
+              "detail": "A jump tap with a forgiving window - press too early and you clip the hazard, too late and you stall."
             },
             {
               "label": "Charged Leap",
-              "detail": "Hold jump for a longer, riskier arc; releasing mid-arc costs you distance."
+              "detail": "Hold jump for a longer, riskier arc; releasing mid-air costs you distance and control."
             },
             {
               "label": "Wrap-Dash",
-              "detail": "Direction plus dash to cross hazards fast - just do not dash into a wall."
+              "detail": "Direction plus dash to cross hazards fast - just do not dash into a wall of bandages."
             },
             {
               "label": "Slide / Tuck",
-              "detail": "Crouch while moving; commit only when you can cancel before a hazard."
+              "detail": "Crouch while moving to slip under obstacles; commit only when you can cancel before a hazard."
             },
             {
               "label": "Unwrap-Pull",
-              "detail": "Interact near an anchor point with a very tight window - time it, do not mash."
+              "detail": "Interact near an anchor point within a very tight window - time it and the run stays clean."
             }
           ]
         },
@@ -291,19 +291,19 @@
             },
             {
               "label": "Shop Reset",
-              "detail": "The shop refreshes on a fixed schedule - the exact moment a returning Bunny Mummy can appear."
+              "detail": "The shop refreshes on a fixed schedule - the exact moment a returning Bunny Mummy look reappears."
             },
             {
               "label": "Combos",
-              "detail": "Unexpected wrap and emote pairings that make the bandaged-rabbit look pop in replays."
+              "detail": "Unexpected wrap and emote pairings that make the bandaged-rabbit look stand out in a lobby."
             },
             {
               "label": "Telegraphs",
-              "detail": "Every enemy threat announces itself first - learn the tell and you avoid the hit."
+              "detail": "Every enemy threat announces itself first - learn the tell and you avoid the hit entirely."
             },
             {
               "label": "No-Spend",
-              "detail": "Clear a level using zero bandages to learn attack patterns faster than mashing ever will."
+              "detail": "Clear a level using zero bandages to learn attack patterns faster than any guide."
             }
           ]
         },
@@ -320,19 +320,19 @@
             },
             {
               "label": "New Sets",
-              "detail": "Fresh bundle variants and matching accessories added with each seasonal event."
+              "detail": "Fresh bundle variants and matching accessories added with each seasonal drop."
             },
             {
               "label": "Events",
-              "detail": "Fortnitemares and other limited-time events where the Bunny Mummy look appears."
+              "detail": "Limited-time events where the Bunny Mummy look returns, including seasonal crossovers."
             },
             {
               "label": "Prices",
-              "detail": "Currency price changes and bundle value shifts across each shop rotation."
+              "detail": "Currency price changes and bundle value shifts across every shop rotation."
             },
             {
               "label": "Patches",
-              "detail": "Cosmetic and gameplay adjustments that affect how the set looks or plays."
+              "detail": "Cosmetic and gameplay adjustments that change how the set looks or plays."
             }
           ]
         },
@@ -345,11 +345,11 @@
           "highlights": [
             {
               "label": "S",
-              "detail": "Full Bunny Mummy bundle - main skin, matching accessories, and extras in one high-value purchase."
+              "detail": "Full Bunny Mummy bundle - main skin, matching accessories, and extras for the best overall value."
             },
             {
               "label": "A",
-              "detail": "Standalone skin when it returns to the shop - a great look, but you supply the extras."
+              "detail": "Standalone skin when it returns to the shop - a great look, but you supply the accessories."
             },
             {
               "label": "B",
@@ -398,7 +398,7 @@
       "items": [
         {
           "question": "What is Bunny Mummy?",
-          "answer": "Bunny Mummy is a spooky-cute character that fuses a soft rabbit with an ancient bandaged mummy. It appears as a limited-time collectible - a wrapped-rabbit cosmetic, an in-game pet, a plush, or a display figure - and the name is also used for a mother rabbit and her litter of kits."
+          "answer": "Bunny Mummy is a spooky-cute character that fuses a soft rabbit with an ancient bandaged mummy. In game it appears as a limited-time collectible - a wrapped-rabbit skin, a matching pet, or a display figure - and in the wider community the name also describes a mother rabbit and her litter of kits."
         },
         {
           "question": "How do I get Bunny Mummy?",
