@@ -6,13 +6,41 @@
     "description": "Your ultimate fan guide to Bunny Mummy! Explore beginner guides, characters, items, gameplay mechanics, secrets and progression tips.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
-  "guide": {},
-  "quests": {},
-  "items": {},
-  "mechanics": {},
-  "reviews": {},
-  "community": {},
+  "nav": {
+    "home": "Home",
+    "guide": "Guide",
+    "quests": "Quests",
+    "items": "Items",
+    "mechanics": "Mechanics",
+    "reviews": "Reviews",
+    "community": "Community",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
+  "guide": {
+    "overviewTitle": "Bunny Mummy Guides",
+    "overviewDescription": "Beginner-friendly Bunny Mummy guides covering how to get the skin, the quest pack, bundles, and everything new players should know."
+  },
+  "quests": {
+    "overviewTitle": "Bunny Mummy Quests",
+    "overviewDescription": "Walkthroughs for every Bunny Mummy quest and challenge, with objectives, rewards, and step-by-step tips."
+  },
+  "items": {
+    "overviewTitle": "Bunny Mummy Items & Bundles",
+    "overviewDescription": "Details on the Bunny Mummy skin, bundle contents, item shop rotation, and V-Bucks pricing."
+  },
+  "mechanics": {
+    "overviewTitle": "Bunny Mummy Gameplay",
+    "overviewDescription": "Bunny Mummy gameplay mechanics, showcases, and skin combos explained with practical examples."
+  },
+  "reviews": {
+    "overviewTitle": "Bunny Mummy Reviews",
+    "overviewDescription": "Honest Bunny Mummy reviews covering value, bundle worth, and whether the skin is worth buying."
+  },
+  "community": {
+    "overviewTitle": "Bunny Mummy Community",
+    "overviewDescription": "Bunny Mummy community resources, Reddit and YouTube discussions, seasonal news, and trailers."
+  },
   "home": {
     "meta": {
       "title": "Bunny Mummy Wiki - Guides, Items & Gameplay",
