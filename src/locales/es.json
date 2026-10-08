@@ -1,1 +1,492 @@
-{}
+{
+  "site": {
+    "name": "Bunny Mummy Wiki",
+    "shortName": "Bunny Mummy",
+    "tagline": "Guías completas, personajes, objetos y jugabilidad",
+    "description": "¡Tu guía definitiva de fan sobre Bunny Mummy! Explora guías para principiantes, personajes, objetos, mecánicas de juego, secretos y consejos de progresión.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "guide": "Guía",
+    "quests": "Misiones",
+    "items": "Objetos",
+    "mechanics": "Mecánicas",
+    "reviews": "Reseñas",
+    "community": "Comunidad",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema"
+  },
+  "guide": {
+    "overviewTitle": "Guías de Bunny Mummy",
+    "overviewDescription": "Guías de Bunny Mummy para principiantes que cubren cómo conseguir el aspecto, el paquete de misiones, los bundles y todo lo que los nuevos jugadores deben saber."
+  },
+  "quests": {
+    "overviewTitle": "Misiones de Bunny Mummy",
+    "overviewDescription": "Guías paso a paso para cada misión y desafío de Bunny Mummy, con objetivos, recompensas y consejos detallados."
+  },
+  "items": {
+    "overviewTitle": "Objetos y bundles de Bunny Mummy",
+    "overviewDescription": "Detalles sobre el aspecto Bunny Mummy, el contenido de los bundles, la rotación de la tienda de objetos y los precios en V-Bucks."
+  },
+  "mechanics": {
+    "overviewTitle": "Jugabilidad de Bunny Mummy",
+    "overviewDescription": "Mecánicas de juego de Bunny Mummy, showcases y combinaciones de aspecto explicadas con ejemplos prácticos."
+  },
+  "reviews": {
+    "overviewTitle": "Reseñas de Bunny Mummy",
+    "overviewDescription": "Reseñas honestas de Bunny Mummy que cubren el valor, si vale la pena el bundle y si conviene comprar el aspecto."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Bunny Mummy",
+    "overviewDescription": "Recursos de la comunidad de Bunny Mummy, debates en Reddit y YouTube, noticias de temporada y tráilers."
+  },
+  "home": {
+    "meta": {
+      "title": "Bunny Mummy Wiki - Guías, objetos y jugabilidad",
+      "description": "Explora Bunny Mummy Wiki con guías detalladas, consejos de jugabilidad, información de objetos, detalles de personajes y recursos útiles para cada jugador."
+    },
+    "hero": {
+      "eyebrow": "Juego de puzles y aventura adorable",
+      "title": "Bunny Mummy Wiki",
+      "description": "Una wiki hecha por fans que cubre guías de jugabilidad de Bunny Mummy, personajes, objetos, mecánicas, consejos y todo lo que los jugadores necesitan para explorar el misterioso mundo de bunny mummy.",
+      "stats": [
+        "Personajes",
+        "Objetos",
+        "Guías de jugabilidad",
+        "Actualizaciones semanales"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Tier list de personajes",
+      "tertiaryCta": "Códigos activos",
+      "videoLabel": "Medios oficiales"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje en Bunny Mummy",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "¿Eres nuevo en Bunny Mummy? Empieza aquí: qué es realmente el coleccionable del conejo vendado, dónde aparece y los primeros pasos para empezar a coleccionar con confianza."
+        },
+        {
+          "number": "2",
+          "title": "Todos los códigos",
+          "description": "Entiende cómo funcionan los códigos promocionales de Bunny Mummy, cómo canjearlos de forma segura y por qué tantas listas de códigos secretos ya están caducadas o son falsas."
+        },
+        {
+          "number": "3",
+          "title": "Cómo desbloquear",
+          "description": "Recorre todas las rutas legítimas de desbloqueo: recompensas de eventos de temporada, ventanas rotativas de la tienda y cadenas de misiones, y sabe qué ahorrar antes de cada reinicio."
+        },
+        {
+          "number": "4",
+          "title": "Guía de combinaciones",
+          "description": "Crea un equipamiento destacado con envoltorios, mochilas y gestos a juego para que tu look de Bunny Mummy se vea claro en cada partida y clip."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Guías de Bunny Mummy en tendencia",
+      "quickLinks": [
+        "Cómo conseguirlo",
+        "Guía del bundle",
+        "Combinaciones de aspecto",
+        "¿Vale la pena?"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes de Bunny Mummy",
+          "description": "Qué es Bunny Mummy, dónde aparece y los primeros pasos para desbloquearlo.",
+          "href": "/guide/bunny-mummy-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Cómo conseguir Bunny Mummy",
+          "description": "Todas las rutas legítimas hacia el coleccionable espeluznante y adorable, desde recompensas de eventos hasta intercambios seguros.",
+          "href": "/guide/bunny-mummy-how-to-get"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía del bundle de Bunny Mummy",
+          "description": "Qué incluye el bundle y si el conjunto completo vale tus V-Bucks.",
+          "href": "/items/bunny-mummy-bundle"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Combinaciones de aspecto de Bunny Mummy",
+          "description": "Envoltorios, gestos y estilos a juego que hacen destacar el look del conejo vendado.",
+          "href": "/mechanics/bunny-mummy-skin-combos"
+        },
+        {
+          "badge": "Popular",
+          "title": "Misiones de Bunny Mummy",
+          "description": "Guías completas de misiones, recompensas y consejos expertos para cada objetivo.",
+          "href": "/quests/bunny-mummy-quests"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "¿Vale la pena comprar Bunny Mummy?",
+          "description": "Una reseña honesta de coleccionista sobre el valor, el momento y el riesgo de reventa.",
+          "href": "/reviews/bunny-mummy-worth-buying"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Guía de Bunny Mummy en Fortnite",
+          "description": "Cómo vuelve el aspecto a la Tienda de Objetos, qué incluyen los bundles y consejos sobre V-Bucks.",
+          "href": "/guide/bunny-mummy-fortnite"
+        },
+        {
+          "badge": "Popular",
+          "title": "Temporada de Bunny Mummy",
+          "description": "Cronogramas de cría, anidación y cuidado de crías para la ventana estacional de bunny mummy.",
+          "href": "/community/bunny-mummy-season"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Bunny Mummy?",
+      "paragraphs": [
+        "Bunny Mummy es la mezcla espeluznante y adorable de un conejo suave y una antigua momia vendada. En el juego llega como coleccionable por tiempo limitado —un aspecto de conejo vendado, una mascota a juego o una figura de exhibición—, mientras que en la comunidad en general el mismo nombre describe a una coneja madre y su camada de crías.",
+        "Como Bunny Mummy está ligado a ventanas limitadas y tiendas rotativas en lugar de un espacio permanente, la disponibilidad y el valor cambian rápido. Esta wiki registra dónde aparece el look, cómo desbloquearlo o ganarlo, qué contiene cada bundle y cómo combinarlo, para que nunca te pierdas un reinicio ni caigas en un código falso."
+      ],
+      "stats": [
+        {
+          "label": "Tema",
+          "value": "Espeluznante y adorable"
+        },
+        {
+          "label": "Look",
+          "value": "Conejo + vendas"
+        },
+        {
+          "label": "Disponibilidad",
+          "value": "Tiempo limitado"
+        },
+        {
+          "label": "Fuentes principales",
+          "value": "Eventos y tiendas"
+        },
+        {
+          "label": "Formatos",
+          "value": "Aspecto, mascota, peluche"
+        },
+        {
+          "label": "Significado real",
+          "value": "Coneja madre"
+        }
+      ],
+      "cta": "Explora todas las guías"
+    },
+    "explore": {
+      "title": "Explora Bunny Mummy Wiki",
+      "description": "Ocho centros temáticos cubren todo sobre Bunny Mummy: cómo desbloquearlo, los personajes y piezas del conjunto al que pertenece, los valores de objetos y bundles, las mecánicas de juego, los detalles ocultos, las actualizaciones, las clasificaciones por tiers y los recursos de la comunidad.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Bunny Mummy",
+          "description": "Orientación para nuevos jugadores: qué es Bunny Mummy, los primeros pasos para desbloquearlo, consejos iniciales y las decisiones que más importan en tu primera partida.",
+          "href": "/guide/bunny-mummy-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Identifica primero qué Bunny Mummy buscas —el aspecto de conejo vendado, la mascota a juego o un peluche físico—, porque cada uno tiene una ruta de desbloqueo distinta."
+            },
+            {
+              "label": "2",
+              "detail": "Consulta el calendario oficial de eventos y anota las fechas exactas de inicio y fin para no perderte nunca la ventana."
+            },
+            {
+              "label": "3",
+              "detail": "Ahorra la moneda del evento con antelación en lugar de farmear en los últimos días, cuando los precios y la competencia se disparan."
+            },
+            {
+              "label": "4",
+              "detail": "Completa la cadena de misiones en orden, porque los objetivos secundarios a menudo bloquean la recompensa final de Bunny Mummy."
+            },
+            {
+              "label": "5",
+              "detail": "Verifica cada código o intercambio en fuentes oficiales antes de comprometer algo de valor."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Personajes de Bunny Mummy",
+          "description": "Conoce a los personajes y piezas de Bunny Mummy: el atuendo de conejo vendado, sus estilos, los accesorios a juego y las creaciones de la comunidad inspiradas en el look.",
+          "href": "/items/bunny-mummy-skin",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Atuendo",
+              "detail": "El look principal de Bunny Mummy: orejas de conejo suaves envueltas en vendas raídas para una silueta espeluznante y adorable."
+            },
+            {
+              "label": "Mochila",
+              "detail": "Un accesorio a juego que completa el conjunto y mantiene el tema del conejo vendado coherente desde cualquier ángulo."
+            },
+            {
+              "label": "Estilos",
+              "detail": "Variantes alternativas de color y vendas que cambian el look entre adorable, espeluznante y momia total."
+            },
+            {
+              "label": "Mascota",
+              "detail": "Un compañero conejo vendado que se ofrece como recompensa de evento o desbloqueo aleatorio."
+            },
+            {
+              "label": "Aspectos de fans",
+              "detail": "Creaciones de Bunny Mummy hechas por jugadores, desde aspectos pixelados hasta accesorios de avatar y peluches del mundo real."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de objetos de Bunny Mummy",
+          "description": "Objetos, bundles y coleccionables importantes de Bunny Mummy: qué contiene cada uno, cómo conseguirlo y si vale el precio.",
+          "href": "/items/bunny-mummy-item-shop",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Bundle",
+              "detail": "El conjunto empaquetado que agrupa el aspecto o mascota principal de Bunny Mummy con accesorios a juego a un precio total más bajo."
+            },
+            {
+              "label": "Aspecto",
+              "detail": "El cosmético de conejo vendado por separado cuando rota solo a la tienda."
+            },
+            {
+              "label": "Mascota",
+              "detail": "Un compañero conejo vendado que se ofrece como recompensa de evento o botín aleatorio."
+            },
+            {
+              "label": "Peluche",
+              "detail": "Peluches físicos de Bunny Mummy y figuras de exhibición vendidos en lanzamientos minoristas de temporada."
+            },
+            {
+              "label": "Moneda",
+              "detail": "Las fichas de evento o monedas premium que ahorrar antes de que el bundle salga de la tienda."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Mecánicas de juego de Bunny Mummy",
+          "description": "El bucle de juego y los controles principales de Bunny Mummy: cómo encajan el movimiento, el medidor de vendas y el tiempo de los enemigos en una partida limpia.",
+          "href": "/mechanics/bunny-mummy-gameplay",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Salto",
+              "detail": "Un toque de salto con una ventana indulgente: si pulsas demasiado pronto chocas con el peligro, y si es demasiado tarde te quedas atascado."
+            },
+            {
+              "label": "Salto cargado",
+              "detail": "Mantén el salto para un arco más largo y arriesgado; soltar en el aire te cuesta distancia y control."
+            },
+            {
+              "label": "Dash con vendas",
+              "detail": "Dirección más dash para cruzar peligros rápido; solo no te lances contra un muro de vendas."
+            },
+            {
+              "label": "Deslizamiento / agacharse",
+              "detail": "Agáchate mientras te mueves para pasar bajo obstáculos; comprométete solo cuando puedas cancelar antes de un peligro."
+            },
+            {
+              "label": "Tirón de vendas",
+              "detail": "Interactúa cerca de un punto de anclaje en una ventana muy ajustada: cronométralo y la partida seguirá limpia."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Secretos de Bunny Mummy",
+          "description": "Detalles ocultos de Bunny Mummy, variantes raras y descubrimientos de la comunidad que la mayoría de jugadores nunca nota.",
+          "href": "/mechanics/bunny-mummy-skin-combos",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Cambio de estilo",
+              "detail": "Variantes ocultas de estilo y vendas que solo aparecen en ciertas piezas del conjunto Bunny Mummy."
+            },
+            {
+              "label": "Reinicio de tienda",
+              "detail": "La tienda se refresca según un calendario fijo: el momento exacto en que reaparece un look de Bunny Mummy."
+            },
+            {
+              "label": "Combinaciones",
+              "detail": "Combinaciones inesperadas de envoltorios y gestos que hacen destacar el look del conejo vendado en una partida."
+            },
+            {
+              "label": "Avisos",
+              "detail": "Cada amenaza enemiga se anuncia primero: aprende la señal y evitarás el golpe por completo."
+            },
+            {
+              "label": "Sin gastar",
+              "detail": "Supera un nivel sin usar ninguna venda para aprender los patrones de ataque más rápido que con cualquier guía."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Actualizaciones de Bunny Mummy",
+          "description": "Seguimiento de las actualizaciones de Bunny Mummy: nuevos bundles, regresos a la tienda, cambios de equilibrio y anuncios de eventos para jugadores que vuelven.",
+          "href": "/guide/bunny-mummy-fortnite",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Regresos",
+              "detail": "Cuándo vuelve Bunny Mummy a rotar en la tienda y cuánto tiempo permanece abierta cada ventana."
+            },
+            {
+              "label": "Nuevos conjuntos",
+              "detail": "Nuevas variantes de bundles y accesorios a juego añadidos con cada lanzamiento de temporada."
+            },
+            {
+              "label": "Eventos",
+              "detail": "Eventos por tiempo limitado en los que regresa el look de Bunny Mummy, incluidos crossovers de temporada."
+            },
+            {
+              "label": "Precios",
+              "detail": "Cambios de precio en moneda y variaciones del valor de los bundles en cada rotación de tienda."
+            },
+            {
+              "label": "Parches",
+              "detail": "Ajustes cosméticos y de jugabilidad que cambian cómo se ve o se juega el conjunto."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Tier list de Bunny Mummy",
+          "description": "Conjuntos, estilos y valores de bundles de Bunny Mummy clasificados desde imprescindible hasta prescindible para que gastes tu moneda donde importa.",
+          "href": "/reviews/bunny-mummy-skin-review",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Bundle completo de Bunny Mummy: aspecto principal, accesorios a juego y extras por el mejor valor general."
+            },
+            {
+              "label": "A",
+              "detail": "Aspecto por separado cuando vuelve a la tienda: un gran look, pero tú aportas los accesorios."
+            },
+            {
+              "label": "B",
+              "detail": "Coleccionables de peluche y exhibición: valen la pena para fans, menos para el valor puramente en el juego."
+            },
+            {
+              "label": "C",
+              "detail": "Intentos aleatorios de botín o cajas: divertidos, pero con las peores probabilidades de coste por desbloqueo."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Comunidad de Bunny Mummy",
+          "description": "Canales de la comunidad de Bunny Mummy, hilos de debate y recursos para jugadores con noticias, valores y soporte.",
+          "href": "/community/bunny-mummy-reddit",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Reddit",
+              "detail": "Hilos de la comunidad que comparten avistamientos en la tienda, valores e ideas de estilo de Bunny Mummy."
+            },
+            {
+              "label": "YouTube",
+              "detail": "Creadores que cubren showcases, rutas de desbloqueo y clips de combinaciones de Bunny Mummy."
+            },
+            {
+              "label": "Discord",
+              "detail": "Servidores de jugadores donde los intercambios, sorteos y noticias de eventos de Bunny Mummy se mueven más rápido."
+            },
+            {
+              "label": "Temporada",
+              "detail": "Debate estacional sobre Bunny Mummy en torno a eventos, cronogramas de anidación y cuidado de crías."
+            },
+            {
+              "label": "Tráiler",
+              "detail": "Guías de la comunidad sobre tráilers, revelaciones y anuncios oficiales de Bunny Mummy."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes sobre Bunny Mummy",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Bunny Mummy: desbloqueo, bundles, precios y regresos de eventos.",
+      "items": [
+        {
+          "question": "¿Qué es Bunny Mummy?",
+          "answer": "Bunny Mummy es un personaje espeluznante y adorable que fusiona un conejo suave con una antigua momia vendada. En el juego aparece como coleccionable por tiempo limitado —un aspecto de conejo vendado, una mascota a juego o una figura de exhibición— y en la comunidad en general el nombre también describe a una coneja madre y su camada de crías."
+        },
+        {
+          "question": "¿Cómo consigo Bunny Mummy?",
+          "answer": "Sigue las rutas legítimas: reclama la recompensa del evento de temporada, cómpralo en una tienda rotativa con moneda ahorrada, completa la cadena de misiones del evento o intercámbialo cuando cierre la ventana. Confirma primero qué versión de Bunny Mummy buscas y luego sigue la ruta correspondiente."
+        },
+        {
+          "question": "¿Los códigos de Bunny Mummy son reales?",
+          "answer": "La mayoría de las listas de códigos secretos de Bunny Mummy son falsas o están caducadas. Trata cualquier código que pida tu inicio de sesión, pago o una encuesta como una estafa, y confirma las recompensas solo por canales oficiales."
+        },
+        {
+          "question": "¿Cuánto cuesta el bundle de Bunny Mummy?",
+          "answer": "Un bundle completo de Bunny Mummy agrupa el aspecto o mascota principal con accesorios a juego y pequeños extras por un valor mejor que comprar cada pieza por separado. Los precios son más bajos mientras el evento está activo y alcanzan su máximo en las semanas justo después de que termina."
+        },
+        {
+          "question": "¿Cuándo volverá Bunny Mummy?",
+          "answer": "Los coleccionables por tiempo limitado rotan según el calendario del desarrollador y rara vez se anuncian con antelación. Revisa la tienda en cada reinicio, sigue los canales oficiales y consulta los hilos de la comunidad sobre avistamientos en la tienda para no perderte la próxima ventana de Bunny Mummy."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar Bunny Mummy?",
+      "description": "Desde tu primera misión hasta cada secreto oculto, nuestra wiki comunitaria te lo cubre con guías de Bunny Mummy gratuitas y actualizadas.",
+      "primary": "Lee la guía para principiantes",
+      "secondary": "Juega a Fortnite"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnFortnite": "Juega a Fortnite",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lectura relacionada",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Bunny Mummy Wiki",
+    "about": "Bunny Mummy Wiki es un centro de guías independiente hecho por fans que cubre personajes, objetos, misiones, secretos y conocimientos esenciales del juego tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Bunny Mummy Wiki. No afiliado a Epic Games ni a Fortnite.",
+    "description": "Centro de guías de Bunny Mummy hecho por fans con personajes, objetos, misiones, mecánicas de juego y consejos de progresión.",
+    "playGame": "Juega a Fortnite",
+    "officialDiscord": "Discord oficial de Fortnite",
+    "officialYoutube": "YouTube oficial de Fortnite",
+    "vvBuilder": "Sitio oficial de Fortnite",
+    "beginnerGuide": "Primeros pasos",
+    "raceGuides": "Tienda de objetos y bundles",
+    "bossGuides": "Guías de misiones",
+    "buildGuide": "Reseñas y valor",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}
